@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ChessInterface/1.0.0": {
+        "dependencies": {
+          "BoardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ChessInterface.dll": {}
+        }
+      },
+      "BoardLibrary/1.0.0": {
+        "runtime": {
+          "BoardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

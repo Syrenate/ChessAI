@@ -1,0 +1,17 @@
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.exe
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.deps.json
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.runtimeconfig.json
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.runtimeconfig.dev.json
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.dll
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\ChessInterface.pdb
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\BoardLibrary.dll
+C:\Users\lukej\source\repos\Chess\ChessInterface\bin\Debug\netcoreapp3.1\BoardLibrary.pdb
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.AssemblyInfo.cs
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.csproj.CopyComplete
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.dll
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.pdb
+C:\Users\lukej\source\repos\Chess\ChessInterface\obj\Debug\netcoreapp3.1\ChessInterface.genruntimeconfig.cache

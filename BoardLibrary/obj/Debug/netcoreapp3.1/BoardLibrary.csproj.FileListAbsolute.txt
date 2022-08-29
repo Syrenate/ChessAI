@@ -1,0 +1,10 @@
+C:\Users\lukej\source\repos\Chess\BoardLibrary\bin\Debug\netcoreapp3.1\BoardLibrary.deps.json
+C:\Users\lukej\source\repos\Chess\BoardLibrary\bin\Debug\netcoreapp3.1\BoardLibrary.dll
+C:\Users\lukej\source\repos\Chess\BoardLibrary\bin\Debug\netcoreapp3.1\BoardLibrary.pdb
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.csproj.AssemblyReference.cache
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.AssemblyInfoInputs.cache
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.AssemblyInfo.cs
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.dll
+C:\Users\lukej\source\repos\Chess\BoardLibrary\obj\Debug\netcoreapp3.1\BoardLibrary.pdb
